@@ -6,7 +6,7 @@ html-to-word-nodejs
 > cnpm i html-to-word-nodejs
 2. 示例
 ```javascript
-var HtmlDocx = require('html-to-word-nodejs');
+var HtmlDocx = require('html-to-docx-nodejs');
 var htmldemo='<h1>测试</h1>'
 var options={
     content:htmldemo,
